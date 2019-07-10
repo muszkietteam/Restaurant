@@ -1,0 +1,11 @@
+div.jumbotron {
+  background-color: #beb8b8;
+}
+
+button.btn-primary a {
+  color: white;
+}
+
+button.btn-primary a:hover {
+  text-decoration: none;
+}
